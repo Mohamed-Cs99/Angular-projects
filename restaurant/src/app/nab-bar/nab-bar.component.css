@@ -1,0 +1,19 @@
+
+nav a 
+{
+    color: white;
+    font-weight: 900;
+}
+nav a:hover
+{
+    cursor: pointer;
+}
+nav ul li a 
+{
+    color: white;
+    font-weight: 600;
+}
+img{
+    width: 50px;
+    
+}

@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+body
+{
+    font-family: 'segoe ui light';
+}
+.row img
+{
+    height: 300px;
+}
+
+.row
+{
+    margin-top: 70px;
+}
